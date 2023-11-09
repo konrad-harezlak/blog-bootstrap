@@ -1,5 +1,7 @@
 # Simple Bootstrap Page
 This is a sample basic website built using the Bootstrap framework. The page includes navigation, a carousel with images, cards with descriptions, blog posts, and a newsletter form.
+### You can find deployed project below:
+### [Bootstrap Page](https://blog-bootstrap.netlify.app)
 
 ## Technologies Used
 - HTML: For the structure and content of the page. 
